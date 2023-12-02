@@ -31,7 +31,7 @@ function _0x5005() {
     '96kZJEHG',
     '452ZUHCYn',
     'signInAnonymously',
-    'AIzaSyASuwLvAM7XZEpRxidCmNH2M11fbdlYXSg',
+    'AIzaSyBpIrlrNz9s55v6uO3mw6Eu9kWEebyLIYI',
     '1978277DEODIR',
     'Sorry\x20voting\x20was\x20not\x20successful\x20please\x20try\x20again\x20later',
     'fashcouncil.appspot.com',
